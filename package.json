@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "这里记录刷leetcode的答案",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-layfolk/leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-layfolk/leetcode/issues"
+  },
+  "homepage": "https://github.com/a-layfolk/leetcode#readme",
+  "dependencies": {
+    "mocha": "^8.4.0"
+  }
+}
